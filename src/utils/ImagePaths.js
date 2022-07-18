@@ -1,0 +1,67 @@
+const ICONS = {
+  BACKGROUND_IMAGE: require('../assets/images/SplashBackgroundImg.png'),
+  MAIN_IMAGE: require('../assets/images/Mainicon.png'),
+  BACK_ICON: require('../assets/images/BackIcon2x.png'),
+  YELLOW_BACK_ICON: require('../assets/images/Path.png'),
+
+  DASHBOARD_ICON: require('../assets/images/Dashboard_Icon.png'),
+  SEARCH_ICON: require('../assets/images/Search_Icon.png'),
+  CROSS_BLACK_ICON: require('../assets/images/cross_black.png'),
+  DRAG_HANDLE: require('../assets/images/drag_handle.png'),
+
+  INVITE_FRIEND_ICON: require('../assets/drawerImages/InviteFriend.png'),
+  MANAGE_ACCOUNT_ICON: require('../assets/drawerImages/ManageAccount.png'),
+  PREFERENCES_ICON: require('../assets/drawerImages/preferences.png'),
+  REQUEST_VERIFY_ICON: require('../assets/drawerImages/requestverification.png'),
+  PAYMENT_ICON: require('../assets/drawerImages/payment.png'),
+  SHIPPING_ICON: require('../assets/drawerImages/shipping.png'),
+  PROMOTION_ICON: require('../assets/drawerImages/adactivity.png'),
+
+  BUSINESS_ICON: require('../assets/drawerImages/businesstool.png'),
+  SPARKSEEKER_ICON: require('../assets/drawerImages/aboutsparkseeker.png'),
+  DIGITAL_HEALTH_ICON: require('../assets/drawerImages/yourdigitalhealth.png'),
+  PRIVACY_ICON: require('../assets/drawerImages/privacy.png'),
+  SUPPORT_ICON: require('../assets/drawerImages/support.png'),
+  TESTER_ICON: require('../assets/drawerImages/sparktester.png'),
+  ADD_ACCOUNT_ICON: require('../assets/drawerImages/addaccount.png'),
+  LOGOUT_ICON: require('../assets/drawerImages/logout.png'),
+  Add_ACCOUNT: '../assets/images/profile/addaccount.png',
+
+  BOOKMARK: require('../assets/images/profile/bookmark.png'),
+
+  ONBOARDING_IMAGE: require('../assets/images/Onboardingvideo.png'),
+  STREAM_IMAGE: require('../assets/images/Stream.png'),
+  SHOP_IMAGE: require('../assets/images/Shop.png'),
+  ME: require('../assets/images/Me.png'),
+  SEEK_IMAGE: require('../assets/images/Search_Icon.png'),
+  CREATE_IMAGE: require('../assets/images/Create.png'),
+  PROFILE_BACKGROUND: require('../assets/images/profile/ProfileBackground.png'),
+  CHECK_MARK: require('../assets/images/profile/check_mark.png'),
+  DROP: require('../assets/images/profile/drop.png'),
+  SETTINGS: require('../assets/images/profile/settings.png'),
+  GROUP: require('../assets/images/profile/group.png'),
+  EDIT_PROFILE: require('../assets/images/profile/edit_profile.png'),
+  CIRCLES: require('../assets/images/profile/circles.png'),
+  MESSAGE: require('../assets/images/profile/message.png'),
+  NOTIFICATION: require('../assets/images/profile/notification.png'),
+  oval: require('../assets/images/profile/oval.png'),
+  GROUP_2: require('../assets/images/profile/Group_2.png'),
+  INSIGHTS_COPY: require('../assets/images/profile/insights.png'),
+
+  LIVE: require('../assets/images/live.png'),
+  LIVECOPY: require('../assets/images/livecopy.png'),
+  THUMBNAIL2: require('../assets/images/thumbnail.png'),
+  THUMBNAIL3: require('../assets/images/thumbnail3.png'),
+  THUMBNAIL6: require('../assets/images/thumbnail6.png'),
+  THUMBNAIL: require('../assets/images/thumbnail2.png'),
+
+  SEARCH_BLACK_ICON: require('../assets/images/searchBlackIcon.png'),
+  CHECKED_ANSWER_ICON: require('../assets/images/CheckedAnswerIcon.png'),
+  UNCHECKED_ANSWER_ICON: require('../assets/images/UncheckedAnswerIcon.png'),
+  SEARCH_LOCATION_ICON: require('../assets/images/SearchLocationIcon.png'),
+
+  AGREEIMAGE: require('../assets/images/AgreeIcon.png'),
+  MAINLOGO: require('../assets/images/Mainlogo.png'),
+};
+
+export {ICONS};
